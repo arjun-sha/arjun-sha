@@ -17,12 +17,12 @@
 <div align="center">
     <h4>Let's Connect</h4>
   <a href="https://www.linkedin.com/in/arjunshankar1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width=37 />
   </a>
   <a href="mailto:arjun.sha2425@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width=37 />
   </a>
   <a href="https://www.linkedin.com/in/arjunshankar1/">
-    <img src="https://skillicons.dev/icons?i=twitter" /><br>
+    <img src="https://skillicons.dev/icons?i=twitter" width=37 /><br>
   </a>
 </div>

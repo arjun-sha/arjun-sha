@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,rabbitmq,postgres,aws,django,kafka,redis,angular,azure,docker,flask,kubernetes,go,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=python,js,rabbitmq,postgres,aws,django,kafka,redis,angular,azure,docker,flask,kubernetes,go,react" /><br>
   </a>
 </div>
 

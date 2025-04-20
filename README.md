@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center --force;">
-  <img src="/assets/banner.png" style="width: 100%; height: auto;" alt="Banner" />
+  <img src="/assets/banner2.png" style="width: 100%; height: auto;" alt="Banner" />
 </div>
 
 **Open source projects and research outcomes** come together here to showcase scalable backend development, intelligent web scraping, robust system design, and solid software engineering principles. From designing reliable architectures to automating data pipelines, this repository reflects continuous learning, creative problem-solving, and a commitment to building efficient, real-world solutions.

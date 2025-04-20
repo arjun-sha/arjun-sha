@@ -16,7 +16,7 @@
 
 <div align="center">
     <h4>Let's Connect</h4>
-  <a href="https://www.linkedin.com/arjunshankar1" target="_blank">
+  <a href="https://www.linkedin.com/in/arjunshankar1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:arjun.sha2425@gmail.com" target="_blank">

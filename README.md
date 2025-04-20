@@ -22,7 +22,7 @@
   <a href="mailto:arjun.sha2425@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/arjunshankar1/">
     <img src="https://skillicons.dev/icons?i=twitter" /><br>
   </a>
 </div>
